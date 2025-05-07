@@ -6,5 +6,6 @@ use the data after cleaning process, the good data will help the process of anal
 
 Objective
 - used data cleaned to do analysis
+- Analysis data with Exploratory Data Analysis(EDA)
 - understanding about data, see the pattern and trend in graph
 - summarize the analysis from the dat data has been show in plot graph
