@@ -10,5 +10,5 @@ Objective
 - Used data cleaned to do analysis
 - Analyze data with Exploratory Data Analysis(EDA)
 - Understanding about data, see the pattern and trend in graph
-- Summarize the analysis from the dat data has been show in plot graph
+- Summarize the analysis from the data has been show in plot graph
 - Analyze the problem either Software/Database/Hardware/Code level/Network issues.
